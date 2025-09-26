@@ -30,7 +30,7 @@ This starter project uses Next.js with Tailwind CSS and Shadcn UI components.
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Shadcn UI Documentation](https://ui.shadcn.com)
 - [OpenAI API Documentation](https://platform.openai.com/docs/api-reference)
-- [PDF.js Library](https://mozilla.github.io/pdf.js/) (suggestion for PDF processing)
+- [react-pdftotext](https://www.npmjs.com/package/react-pdftotext)
 
 ## Evaluation Criteria
 - Functional completeness of the core features
@@ -45,3 +45,7 @@ This starter project uses Next.js with Tailwind CSS and Shadcn UI components.
 This assignment is designed to demonstrate your approach to problem-solving and integration rather than creating a production-ready application. We're interested in seeing your programming style and how you tackle the essential requirements within the time constraint.
 
 Good luck! We're excited to see your implementation.
+
+
+## ENVIRONMENT VARIABLES
+Create a .env file and add OPENAI_API_KEY variable for the API key
